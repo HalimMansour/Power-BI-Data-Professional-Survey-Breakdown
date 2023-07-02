@@ -24,4 +24,6 @@ The Power BI dashboard developed as part of this project offers a comprehensive 
 3. **Favorite Programming Language**: This visual showcases the preferred programming languages chosen by the data professionals. It presents a bar chart displaying the frequency of each programming language selected by the participants.
 4. **Difficulty to Break into Data**: This visualization depicts the perceived difficulty levels faced by the respondents when entering the field of data. It represents this information using a rating scale, allowing for a quick understanding of the overall perception.
 5. **Happiness with Salary and Work/Life Balance**: This visual displays the participants' satisfaction levels with both their salary and work-life balance. It provides an aggregated view of the ratings, allowing for a comprehensive assessment of happiness levels.
+   
 
+![Data Professional Survey Breakdown Dashboard](https://github.com/HalimMansour/Power-BI-Data-Professional-Survey-Breakdown/assets/122712424/bca54cf4-43ea-4348-9005-1cf1d916c065)
